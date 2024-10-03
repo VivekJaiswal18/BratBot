@@ -40,7 +40,7 @@ import { ConnectButton } from '@rainbow-me/rainbowkit';
 const Navbar = () => {
 
   return (
-    <div className="fixed font-sans-serif inset-x-0 top-0 bg-zinc-900  z-[10] h-fit border-b border-slate-900 py-2">
+    <div className="fixed font-sans-serif inset-x-0 top-0 bg-gray-950 z-[10] h-fit border-b border-slate-900 py-2">
       <div className="flex items-center justify-between px-8 mx-auto max-w-7xl">
         <div className="flex items-center gap-8">
           <Link href={"/"} className="flex items-center">
