@@ -1,3 +1,9 @@
+## BratBot
+
+BratBot is a cutting-edge decentralized platform that integrates artificial intelligence (AI) with blockchain technology to deliver advanced analytics, automation, and decision-making tools for various autonomous systems leveraging GaiaNet's Node subdomain a large language model to offer in-depth information and analysis on all aspects to fetch data from. Built on a transparent and secure infrastructure, BratBot enables users to interact with AI-driven insights in real-time while ensuring data integrity and privacy through decentralized storage and processing. The platform is designed to cater to the audience that needs a Brat bot to play interact with. From the witty comebacks to the random results it totally is a BratBot indeed.
+[Click Here to access the node subdomains](https://www.gaianet.ai/gaia-domain-name)
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
